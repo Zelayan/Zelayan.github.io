@@ -1,5 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://Zelayan.github.com/'
 languageCode = 'en-us'
 title = 'test'
 theme = 'ananke'
-publishDir = 'docs'
