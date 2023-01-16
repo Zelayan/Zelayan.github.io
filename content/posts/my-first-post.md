@@ -1,13 +1,6 @@
 ---
 title: "My First Post"
-date: 2023-01-11T11:20:15+08:00
+date: 2023-01-16T10:04:25+08:00
 draft: true
 ---
 
-## Introduction
-
-This is **bold** text, and this is *emphasized* text.
-
-Visit the [Hugo](https://gohugo.io) website!
-
-xxxxx
